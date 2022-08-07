@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="homePage.HomePage">
+        <methods>
+          <include name="Test10_select_roles"/>
+          <include name="Test11_select_customers"/>
+          <include name="Test8_attachment_field"/>
+          <include name="logout_and_close"/>
+          <include name="Test4_toast_message"/>
+          <include name="Test0_initialization"/>
+          <include name="Test3_open_BA_creation_page"/>
+          <include name="Test2_login_to_registry"/>
+          <include name="Test5_select_banner_or_announcement"/>
+          <include name="Test6_text_field"/>
+          <include name="Test9_select_date_field"/>
+          <include name="Test13_check_correctness_from_cs_role"/>
+          <include name="delete_banner_announcement"/>
+          <include name="Test1_load_data"/>
+          <include name="Test7_link_field"/>
+          <include name="Test12_saveFinally"/>
+        </methods>
+      </class> <!-- homePage.HomePage -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

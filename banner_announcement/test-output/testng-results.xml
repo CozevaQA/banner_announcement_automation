@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="17" passed="17" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-02T19:07:54 IST" name="Default suite" finished-at="2022-08-02T19:10:48 IST" duration-ms="173673">
+    <groups>
+    </groups>
+    <test started-at="2022-08-02T19:07:54 IST" name="Default test" finished-at="2022-08-02T19:10:48 IST" duration-ms="173673">
+      <class name="homePage.HomePage">
+        <test-method signature="Test0_initialization()[pri:0, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:07:54 IST" name="Test0_initialization" finished-at="2022-08-02T19:07:58 IST" duration-ms="3653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test0_initialization -->
+        <test-method signature="Test1_load_data()[pri:1, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:07:58 IST" name="Test1_load_data" finished-at="2022-08-02T19:07:59 IST" duration-ms="1107" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1_load_data -->
+        <test-method signature="Test2_login_to_registry()[pri:2, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:07:59 IST" name="Test2_login_to_registry" finished-at="2022-08-02T19:08:10 IST" duration-ms="11196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2_login_to_registry -->
+        <test-method signature="Test3_open_BA_creation_page()[pri:3, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:10 IST" name="Test3_open_BA_creation_page" finished-at="2022-08-02T19:08:15 IST" duration-ms="4979" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3_open_BA_creation_page -->
+        <test-method signature="Test4_toast_message()[pri:4, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:15 IST" name="Test4_toast_message" finished-at="2022-08-02T19:08:18 IST" duration-ms="2625" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4_toast_message -->
+        <test-method signature="Test5_select_banner_or_announcement()[pri:5, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:18 IST" name="Test5_select_banner_or_announcement" finished-at="2022-08-02T19:08:20 IST" duration-ms="2564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test5_select_banner_or_announcement -->
+        <test-method signature="Test6_text_field()[pri:6, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:20 IST" name="Test6_text_field" finished-at="2022-08-02T19:08:23 IST" duration-ms="2329" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test6_text_field -->
+        <test-method signature="Test7_link_field()[pri:7, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:23 IST" name="Test7_link_field" finished-at="2022-08-02T19:08:26 IST" duration-ms="3197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test7_link_field -->
+        <test-method signature="Test8_attachment_field()[pri:8, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:26 IST" name="Test8_attachment_field" finished-at="2022-08-02T19:08:28 IST" duration-ms="2486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test8_attachment_field -->
+        <test-method signature="Test9_select_date_field()[pri:9, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:28 IST" name="Test9_select_date_field" finished-at="2022-08-02T19:08:29 IST" duration-ms="988" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test9_select_date_field -->
+        <test-method signature="Test10_select_roles()[pri:10, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:29 IST" name="Test10_select_roles" finished-at="2022-08-02T19:08:32 IST" duration-ms="2247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test10_select_roles -->
+        <test-method signature="Test11_select_customers()[pri:11, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:32 IST" name="Test11_select_customers" finished-at="2022-08-02T19:08:48 IST" duration-ms="16565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test11_select_customers -->
+        <test-method signature="Test12_saveFinally()[pri:12, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:48 IST" name="Test12_saveFinally" finished-at="2022-08-02T19:08:50 IST" duration-ms="2135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test12_saveFinally -->
+        <test-method signature="Test13_check_correctness_from_cs_role()[pri:13, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:08:50 IST" name="Test13_check_correctness_from_cs_role" finished-at="2022-08-02T19:10:28 IST" duration-ms="97746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test13_check_correctness_from_cs_role -->
+        <test-method signature="Test14_check_correctness_from_other_roles()[pri:14, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:10:28 IST" name="Test14_check_correctness_from_other_roles" finished-at="2022-08-02T19:10:38 IST" duration-ms="9838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test14_check_correctness_from_other_roles -->
+        <test-method signature="delete_banner_announcement()[pri:14, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:10:38 IST" name="delete_banner_announcement" finished-at="2022-08-02T19:10:43 IST" duration-ms="5295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_banner_announcement -->
+        <test-method signature="logout_and_close()[pri:15, instance:homePage.HomePage@27ce24aa]" started-at="2022-08-02T19:10:43 IST" name="logout_and_close" finished-at="2022-08-02T19:10:48 IST" duration-ms="4628" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout_and_close -->
+      </class> <!-- homePage.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,10 @@
+"KEY","VALUE"
+"Category","announce"
+"text","This is created for testing purpose. Please ignore it. It will be deleted. These are {link} and [file]"
+"link","https://www.cowin.gov.in/"
+"attachment1","C:\\Users\\sudutta\\Desktop\\Different file extensions\\demoExcel.xlsx"
+"attachment2","C:\\Users\\sudutta\\Desktop\\Different file extensions\\demoPDF.pdf"
+"from",
+"to",
+"roles","cs, cu, provider, rs,  OA"
+"customers",4700
